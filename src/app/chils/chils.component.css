@@ -1,0 +1,42 @@
+.box{
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    font-size: 18px;
+    width: 300px;
+    text-align: center;
+}
+
+input{
+    background: white;
+    border: 1px solid #ddd;
+    font-size: 18px;
+    display: block;
+    width: 80%;
+    padding: 10px 12px ;
+}
+
+button{
+    background: green;
+    font-size: 20px;
+    color: white;
+    padding: 6px 15px;
+    border: 0;
+    margin: 15px auto;
+    border-radius: 5px;
+}
+.count{
+    text-align: left;
+}
+
+.boxRed{
+    background: white;
+    border:1px solid orangered;
+}
+
+.boxGreen{
+    background: white;
+    border:1px solid green;
+}
+
